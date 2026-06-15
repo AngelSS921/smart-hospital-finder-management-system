@@ -1,7 +1,7 @@
 ### Smart Hospital Finder and Management System (SHFMS)
 
 ## Overview
-# SHFMS is a desktop-based healthcare management application that helps patients find hospitals, view doctors, and book appointments digitally. The system provides role-based access for Admin, Hospital Admin, Doctor, and Patient users.
+- SHFMS is a desktop-based healthcare management application that helps patients find hospitals, view doctors, and book appointments digitally. The system provides role-based access for Admin, Hospital Admin, Doctor, and Patient users.
 
 ## Features
 # Patient
