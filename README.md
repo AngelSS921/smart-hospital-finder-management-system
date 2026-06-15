@@ -75,7 +75,7 @@
 - Developed as a B.Tech Computer Science and Engineering project (Semester 3) at NSS College of Engineering, Palakkad.
 
 ## Screenshots
-# FIG: 1.1 HOME PAGE 1
+### FIG: 1.1 HOME PAGE 1
 - <img width="603" height="297" alt="image" src="https://github.com/user-attachments/assets/4bbea4d6-a686-4371-8b67-7c2d2e75535b" />
 
 # FIG 1.2 HOME PAGE 2
@@ -126,7 +126,7 @@
 # FIG 6.1 MY APPOINTMENTS
 - <img width="523" height="233" alt="image" src="https://github.com/user-attachments/assets/308ed665-8c86-420c-964b-03806e42700c" />
 
-#FIG 6.2 SEARCH HOSPITALS
+# FIG 6.2 SEARCH HOSPITALS
 - <img width="526" height="282" alt="image" src="https://github.com/user-attachments/assets/0a0b57ca-f8ea-465b-b1f0-a7b523c12b89" />
 
 # FIG 6.2 BOOK APPOINTMENT (1)
